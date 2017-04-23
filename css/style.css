@@ -6,6 +6,15 @@ header{
   color: #fff;
 }
 
+h1{
+  display: inline-block;
+  font-size: 85px;
+}
+
+.bravo{
+    width: 80px;
+}
+
 .description{
   padding: 80px 150px;
   font-size: 20px;
