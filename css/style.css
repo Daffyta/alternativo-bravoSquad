@@ -1,0 +1,36 @@
+header{
+  text-align: center;
+  background-color: #2f4357;
+  padding: 50px;
+  font-size: 50px;
+  color: #fff;
+}
+
+.description{
+  padding: 80px 150px;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.carousel{
+  background: #2f4357;
+  margin-top: 20px;
+}
+.carousel .item img{
+  margin: 0 auto; /* Align slide image horizontally center */
+}
+.bs-example{
+  margin: 20px 320px;
+}
+
+img{
+  width: 250px;
+}
+
+footer{
+  text-align: center;
+  padding: 20px;
+  background-color: #2f4357;
+  color: #fff;
+  margin-top: 50px;
+}
